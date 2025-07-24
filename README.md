@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="100" src="https://imgur.com/a/zmbFSzU"  />
-</div>
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
 
-###
+ 
+
+<div align="center">
 
 <br clear="both">
-
-<h1 align="center">Hello, I'm Reuben 🤞!!</h1>
+<h1 align="center">Hello, I'm Reuben 🤞!!</h1> </div>
 
 ###
 
@@ -48,7 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -60,19 +59,13 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_text=fanbase"  />
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
