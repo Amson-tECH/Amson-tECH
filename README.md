@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">A passionate Frontend Developer | Data Analyst | IT Consultant</p>
+<p align="center">A passionate Software Developer | Data Analyst | IT Consultant</p>
 
 ###
 <p align="center">
