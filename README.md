@@ -99,7 +99,7 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/reuben-korsi-amuzu-506265358" target="_blank">
+  <a href="https://www.linkedin.com/in/reuben-korsi-amuzu-b4bb82385" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/koramu_reuben?s=21" target="_blank">
