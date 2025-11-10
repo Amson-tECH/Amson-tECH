@@ -1,90 +1,169 @@
 <div align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-
- 
-
-<div align="center">
-
-<br clear="both">
-<h1 align="center">Hello, I'm Reuben 🤞!!</h1> </div>
-
-###
-
-<p align="center">A passionate Software Developer | Data Analyst | IT Consultant</p>
-
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Reuben%20Korsi%20Amuzu&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-###
+<div align="center">
+  
+  ## 👋 Hello, I'm Reuben!
+  
+  ### 💻 Passionate Software Developer | Full-Stack Engineer | Problem Solver
+  
+  <p align="center">
+    <em>Building scalable web applications and turning ideas into reality</em>
+  </p>
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=Amson-tECH&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  
+</div>
 
 
-###
+---
 
 <div align="center">
+  
+  ### 🛠️ Tech Stack
+  
+  <br>
+  
+  **Frontend**
+  
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" title="HTML5" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" title="CSS3" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" title="JavaScript" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" title="TypeScript" />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=react" height="45" alt="react" title="React" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwind" title="Tailwind CSS" />
+  </p>
+  
+  **Backend**
+  
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" title="Node.js" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express" title="Express.js" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" title="Python" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cpp" title="C++" />
+  </p>
+  
+  **Database**
+  
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" title="MongoDB" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45" alt="mongoose" title="Mongoose" />
+  </p>
+  
+  **Tools & Technologies**
+  
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" title="Git" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" title="GitHub" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" title="Docker" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" title="Linux" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" title="VS Code" />
+  </p>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 📊 GitHub Stats
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Amson-tECH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amson-tECH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amson-tECH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Amson-tECH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎵 Currently Vibing To
+  
+  <br>
+  
   <a href="https://open.spotify.com/user/316co3uygdya4jfjvb4ag5lbnaau">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316co3uygdya4jfjvb4ag5lbnaau&count=5" alt="Spotify recently played"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316co3uygdya4jfjvb4ag5lbnaau&count=5&width=600" alt="Spotify Recently Played"/>
   </a>
+  
 </div>
 
-###
-
-
-###
-
-
-###
-
-
-
-###
+---
 
 <div align="center">
+  
+  ### 🤝 Let's Connect!
+  
+  <p align="center">
+    <em>Feel free to reach out for collaborations, opportunities, or just a chat!</em>
+  </p>
+  
+  <br>
+  
   <a href="https://www.linkedin.com/in/reuben-korsi-amuzu-b4bb82385" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/koramu_reuben?s=21" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="www.youtube.com/@reubenamuzu2263" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.youtube.com/@reubenamuzu2263" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://wa.me/233549221575?text=Hello%20Mr.%20Reuben%2C%20I%27m%20interested%20in%20your%20work!" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.instagram.com/mrr_reuben?igsh=MW1zOWw1Mm5qbTJpdg%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  
 </div>
 
-###
+---
+
+<div align="center">
+  
+  ### 💡 Quote of the Day
+  
+  <br>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  
+  <p align="center">
+    <em>⭐️ From <a href="https://github.com/Amson-tECH">Reuben Korsi Amuzu</a> with ❤️</em>
+  </p>
+  
+</div>
