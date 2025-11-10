@@ -1,23 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Reuben%20Korsi%20Amuzu&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
-
-<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Reuben%20Korsi%20Amuzu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=55&descAlign=50" />
   
-  ## 👋 Hello, I'm Reuben!
-  
-  ### 💻 Passionate Software Developer | Full-Stack Engineer | Problem Solver
-  
-  <p align="center">
-    <em>Building scalable web applications and turning ideas into reality</em>
-  </p>
-  
-  <br>
+   #### Building scalable web applications and turning ideas into reality 
   
   <img src="https://komarev.com/ghpvc/?username=Amson-tECH&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  
+
 </div>
 
+
+
+
+
+<div align="center">
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400"> -->
+  <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 
 ---
 
@@ -160,7 +157,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
   
   <p align="center">
     <em>⭐️ From <a href="https://github.com/Amson-tECH">Reuben Korsi Amuzu</a> with ❤️</em>
