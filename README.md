@@ -80,7 +80,7 @@
 
 <div align="center">
   
-  ### 📊 GitHub Stats
+  ### 📊 GitHub Statistics
   
   <br>
   
@@ -145,7 +145,7 @@
 
 <div align="center">
   
-  ### 💡 Quote of the Day
+  ### 💡 Quote of the Day!
   
   <br>
   
