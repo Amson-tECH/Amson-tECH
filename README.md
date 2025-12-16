@@ -38,6 +38,10 @@
     <img src="https://skillicons.dev/icons?i=react" height="45" alt="react" title="React" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwind" title="Tailwind CSS" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original-wordmark.svg" height="65" alt="expo" title="Expo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg" height="45" alt="expo" title="Expo" />
   </p>
   
   **Backend**
@@ -50,6 +54,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" title="Python" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cpp" title="C++" />
+    
   </p>
   
   **Database**
@@ -58,6 +63,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" title="MongoDB" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45" alt="mongoose" title="Mongoose" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="45" alt="cpp" title="Prisma" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" title="Postgresql" />
   </p>
   
   **Tools & Technologies**
